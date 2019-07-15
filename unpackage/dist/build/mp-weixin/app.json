@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/basics/home",
+    "pages/tabBar/component/home",
+    "pages/search/home",
+    "pages/guide/home",
+    "pages/camera/home",
+    "pages/tabBar/plugin/home"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarBackgroundColor": "#0081ff",
+    "navigationBarTitleText": "垃圾分类用户指南",
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "white"
+  },
+  "usingComponents": {},
+  "permission": {}
+}

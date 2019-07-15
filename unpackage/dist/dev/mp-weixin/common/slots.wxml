@@ -1,0 +1,26 @@
+<import src="/colorui/components/cu-custom.vue.wxml" />
+
+<template name="M26f60f5e-default-26f60f5e-0"></template>
+
+<template name="M26f60f5e-content-26f60f5e-0">图像识别</template>
+
+<template name="M9f2b2704-default-9f2b2704-0"></template>
+
+<template name="M9f2b2704-content-9f2b2704-0">首页</template>
+
+<template name="M723d9b9d-default-723d9b9d-0"></template>
+
+<template name="M723d9b9d-content-723d9b9d-0">引导页</template>
+
+<template name="Me7d4f28a-default-e7d4f28a-0"></template>
+
+<template name="Me7d4f28a-content-e7d4f28a-0">查询</template>
+
+<template name="M5a713437-default-5a713437-0"></template>
+
+<template name="M5a713437-content-5a713437-0">首页</template>
+
+<template name="M26184675-default-26184675-0"></template>
+
+<template name="M26184675-content-26184675-0">图像识别</template>
+

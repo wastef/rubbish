@@ -1,0 +1,147 @@
+
+.fixed {
+		position: fixed;
+		z-index: 99;
+}
+.cu-modal .dialog{
+		width: 580rpx;
+}
+.cu-dialog .imgSize{
+		background-size: contain;
+		background-image: url('https://www.waterbearking.com/h5/static/img/gh_121bba52d857_430.jpg');
+		background-color: #fff;
+}
+.round::after{
+		border: 0;
+}
+.tools{
+		position: fixed;
+		right: 30rpx;
+		top: 60%;
+		z-index: 99;
+}
+.tools .round{
+		/* padding: 0; */
+		font-size: 24rpx;
+		padding: 0 24rpx;
+		margin: 10rpx 0 0 0;
+}
+.VerticalBox{
+		margin-top: 20rpx;
+}
+.VerticalNav.nav {
+		width: 200rpx;
+		white-space: initial;
+		/* padding-top: 20upx; */
+}
+.VerticalNav.nav .cu-item {
+		width: 100%;
+		text-align: center;
+		background-color: #fff;
+		margin: 0;
+		border: none;
+		height: 50px;
+		line-height: 50px;
+		font-size: 30rpx;
+		position: relative;
+}
+.VerticalNav.nav .cu-item.cur {
+		/* background-color: #f1f1f1; */
+		    background-color: #1cbbb4;
+			color: #fff;
+}
+.VerticalNav.nav .cu-item.cur::after {
+		content: "";
+width: 8rpx;
+height: 100%;
+border-radius: 0 10px 10rpx 0;
+position: absolute;
+background-color: currentColor;
+top: 0;
+left: 0px;
+bottom: 0;
+margin: auto;
+background: #fbbd08;
+}
+.VerticalBox {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+}
+.VerticalMain {
+		background-color: #f1f1f1;
+		-webkit-box-flex: 1;
+		-webkit-flex: 1;
+		    -ms-flex: 1;
+		        flex: 1;
+}
+.VerticalBox .action{
+		padding: 26rpx;
+		width: 100%;
+		/* display: block; */
+}
+.img{
+		width: 64px;
+		height: 64px;
+		text-align: center;
+}
+.article{
+		width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-flex-wrap: nowrap;
+      -ms-flex-wrap: nowrap;
+          flex-wrap: nowrap;
+}
+.aricle-title{
+		padding-top: 20rpx;
+}
+.article .names{
+		display: inline-block;
+		text-indent: 56rpx;
+}
+
+
+.camera{
+	padding-top: 60px;
+	height: 100vh;
+	background: #fff;
+}
+.camera .flex{
+	width: 80%;
+	height: 90%;
+}
+.camera  .solid-bottom::after {
+	border: 0;
+}
+.btns{
+	position: fixed;
+	left: 50%;
+	margin-left: -68rpx;
+	font-size: 28rpx;
+}
+.scan-img{
+	opacity: 0.4;
+	width: 100%;
+	height:500rpx;
+}
+.img-btn{
+	width: 64px;
+	height: 64px;
+	padding: 30rpx;
+	border-radius: 50%;
+	background:#1CBBB4;
+	position: absolute;
+	left: 50%;
+	margin-left: -32px;
+	bottom: 54px;
+}
+
